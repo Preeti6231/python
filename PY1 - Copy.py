@@ -1,0 +1,6 @@
+print("HELLO WORLD!!!")
+print("GOOD MORNING!!!")
+print("Hello Future Husband!!!")
+name = input("Enter Your Name")
+age = int(input("Enter Your Age"))
+print("Hello", name , "Your Age is : " , age)
